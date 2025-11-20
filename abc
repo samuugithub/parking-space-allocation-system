@@ -1,0 +1,12 @@
+parking_project/
+│── src/
+│   ├── detect.py
+│   ├── slot_manager.py
+│   ├── utils.py
+│── models/
+│   ├── yolov8n.pt
+│── data/
+│   ├── parking_slots.json
+│   ├── sample_video.mp4
+│── output/
+│── README.md
